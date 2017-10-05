@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-For Linux GPG is typically pre-installed.  For Mac, install [GPG
+For Linux GPG, is typically pre-installed.  For Mac, install [GPG
 Suite][mac-gpg].
 
 [mac-gpg]: https://gpgtools.org/
